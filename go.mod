@@ -1,3 +1,3 @@
-module test
+module go-proxy
 
 go 1.19
